@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>🌟 Hey! Arindam here – your friendly neighborhood coder 🧑‍💻 tech explorer 🚀 and digital dreamer 💭 ready to build, break and innovate! 🔥<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>🌟 Hey! Arindam here your friendly neighborhood coder 🧑‍💻 tech explorer 🚀 and digital dreamer 💭 ready to build, break and innovate! 🔥<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
@@ -65,18 +65,18 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodewithArindam0018&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodewithArindam0018&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodewithArindam0018&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodewithArindam0018&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodewithArindam0018&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=CodewithArindam0018&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildsbyarindam&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebuildsbyarindam&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebuildsbyarindam&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebuildsbyarindam&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codebuildsbyarindam&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=codebuildsbyarindam&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
 </div><br>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=CodewithArindam0018&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=codebuildsbyarindam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 
